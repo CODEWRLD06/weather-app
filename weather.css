@@ -98,6 +98,7 @@ p {
 @media (max-width: 480px) {
   .container {
     padding: 15px 10px;
+    width: 80%;
   }
 
   .searchInput {
